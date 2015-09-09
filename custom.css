@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+
+.navbar {
+  margin-bottom: 30px;
+  background-color: black;
+  border: 1px solid black;
+}
+
+.navbar ul {
+  margin-top: 20px;
+}
+
+.row {
+  color: #955d17;
+}
+
+.row span {
+  color: white;
+}
+
+.row div {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.jumbotron {
+  background-color: black;
+}
+
+.jumbotron img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+#social_media ul.list-inline.pull-right li {
+  vertical-align: top;
+}
