@@ -26,9 +26,17 @@ body {
   color: white;
 }
 
+.row h4 {
+  padding-top: 15px;
+}
+
 .row div {
   padding-left: 50px;
   padding-right: 50px;
+}
+
+.section_title small {
+  color: white;
 }
 
 .jumbotron {
